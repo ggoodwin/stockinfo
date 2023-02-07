@@ -2,19 +2,20 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Stocks Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Stocks in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Get started by **following some easy first steps**.
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
+- You will need an account at a **stock exchange website**.
+- [eTrade](https://us.etrade.com/)
+  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [Fidelity](https://www.fidelity.com/)
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
 ## Generate a new site
